@@ -1,0 +1,507 @@
+{
+  "saleProducts": [
+    {
+      "id": 29,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 3,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/Qphac99.jpeg"
+      }
+    },
+    {
+      "id": 30,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 3,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/Qphac99.jpeg"
+      }
+    },
+    {
+      "id": 31,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 3,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/Qphac99.jpeg"
+      }
+    },
+    {
+      "id": 32,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 3,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/Qphac99.jpeg"
+      }
+    },
+    {
+      "id": 33,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 3,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/Qphac99.jpeg"
+      }
+    },
+    {
+      "id": 34,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 3,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/Qphac99.jpeg"
+      }
+    },
+    {
+      "id": 35,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg"
+      }
+    },
+    {
+      "id": 36,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg"
+      }
+    },
+    {
+      "id": 37,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg"
+      }
+    },
+    {
+      "id": 38,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": 7,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 8,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 9,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 11,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 12,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 13,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 14,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 15,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 16,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 17,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 1,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg"
+      }
+    },
+    {
+      "id": 18,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
+    {
+      "id": 19,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
+    {
+      "id": 21,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
+    {
+      "id": 22,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
+    {
+      "id": 23,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
+    {
+      "id": 24,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
+    {
+      "id": 25,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
+    {
+      "id": 26,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
+    {
+      "id": 27,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg"
+      }
+    },
+    {
+      "id": 28,
+      "title": "LIghter",
+      "price": 24,
+      "description": "Hand Crafted Pocket Bling",
+      "images": [
+        "assets/images/lighter1.JPG"
+      ],
+      "category": {
+        "id": 3,
+        "name": "nuevo",
+        "image": "https://i.imgur.com/Qphac99.jpeg"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Jewellery",
+      "image": "https://pngimagesfree.com/wp-content/uploads/Gold-Jewellery-Necklaces-PNG@.png"
+    },
+    {
+      "id": 6,
+      "name": "Miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "Classic White T-Shirt",
+      "price": 20,
+      "quantity": 1,
+      "image": "https://i.imgur.com/axsyGpD.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Sleek Wireless Computer Mouse",
+      "price": 10,
+      "quantity": 1,
+      "image": "https://i.imgur.com/w3Y8NwQ.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Sleek Smartwatch with Vibrant Display",
+      "price": 16,
+      "quantity": 1,
+      "image":  "https://i.imgur.com/LGk9Jn2.jpeg"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Order Placed",
+      "message": "Your order has been successfully placed.",
+      "timestamp": "3 hours ago"
+    },
+    {
+      "id": 2,
+      "title": "Payment Received",  
+      "message": "Your payment has been successfully received.",  
+      "timestamp": "4 hours ago"
+    },
+    {
+      "id": 3,
+      "title": "Order Delivered",
+      "message": "Your order has been successfully delivered.",
+      "timestamp": "2 days ago"
+    },
+    {
+      "id": 4,
+      "title": "Order Cancelled",
+      "message": "Your order has been successfully cancelled.",
+      "timestamp": "5 days ago"
+    }
+  ]
+}
